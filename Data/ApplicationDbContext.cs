@@ -17,7 +17,9 @@ namespace MvcMovie.Models
 
         public DbSet<Person> Person { get; set; } = default!;
 
-        public DbSet<MvcMovie.Models.Animal> Animal { get; set; } = default!;
+        public DbSet<Animal> Animal { get; set; } = default!;
+
+        public DbSet<Employee> Employee { get; set; } = default!;
     }
 
 }

@@ -9,97 +9,121 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MvcMovie
 build_property.RootNamespace = MvcMovie
-build_property.ProjectDir = D:\PTPMMM\MvcMovie\
+build_property.ProjectDir = d:\PTPMMM\MvcMovie\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PTPMMM\MvcMovie
+build_property.MSBuildProjectDirectory = d:\PTPMMM\MvcMovie
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PTPMMM/MvcMovie/Views/Animal/Create.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Animal/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Animal/Delete.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Animal/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Animal/Details.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Animal/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Animal/Edit.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Animal/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Animal/Index.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Animal/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5pbWFsXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Home/Index.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/PTPMMM/MvcMovie/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/PTPMMM/MvcMovie/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/PTPMMM/MvcMovie/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/PTPMMM/MvcMovie/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/PTPMMM/MvcMovie/Views/Employee/Upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXBsb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/PTPMMM/MvcMovie/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Home/Privacy.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Person/Create.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Person/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Person/Delete.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Person/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Person/Details.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Person/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Person/Edit.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Person/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Person/Index.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Shared/Error.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Student/Create.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Student/Delete.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Student/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Student/Details.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Student/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Student/Edit.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Student/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Student/Index.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/_ViewImports.cshtml]
+[d:/PTPMMM/MvcMovie/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/_ViewStart.cshtml]
+[d:/PTPMMM/MvcMovie/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMMM/MvcMovie/Views/Shared/_Layout.cshtml]
+[d:/PTPMMM/MvcMovie/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0uvum7rpp4

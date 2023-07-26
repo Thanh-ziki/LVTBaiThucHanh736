@@ -4,4 +4,8 @@ namespace MvcMovie.Models
     {
         
     }
+    public class cat : Animal
+    {
+        
+    }
 }
