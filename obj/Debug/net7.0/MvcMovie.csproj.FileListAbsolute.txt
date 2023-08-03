@@ -284,3 +284,14 @@ D:\PTPMMM\MvcMovie\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
 D:\PTPMMM\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 D:\PTPMMM\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\PTPMMM\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.AssemblyReference.cache
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfoInputs.cache
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfo.cs
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.CoreCompileInputs.cache
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cache
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cs
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\MvcMovie.dll
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\refint\MvcMovie.dll
+D:\PTPMQL\MvcMovie\obj\Debug\net7.0\MvcMovie.pdb

@@ -12078,19 +12078,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thanh\\.nuget\\packages\\": {}
+    "C:\\Users\\NGUYEN DUC TRONG\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PTPMMM\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "D:\\PTPMQL\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "D:\\PTPMMM\\MvcMovie\\MvcMovie.csproj",
-      "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-      "outputPath": "D:\\PTPMMM\\MvcMovie\\obj\\",
+      "projectPath": "D:\\PTPMQL\\MvcMovie\\MvcMovie.csproj",
+      "packagesPath": "C:\\Users\\NGUYEN DUC TRONG\\.nuget\\packages\\",
+      "outputPath": "D:\\PTPMQL\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\NGUYEN DUC TRONG\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
